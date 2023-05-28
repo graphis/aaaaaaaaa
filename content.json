@@ -11,5 +11,11 @@
     {
       "custom-list-item": "wqeqweewwererewr"
     }
+  ],
+  "blog": [
+    {
+      "title": "blog title 1",
+      "text": "blog text 1"
+    }
   ]
 }
